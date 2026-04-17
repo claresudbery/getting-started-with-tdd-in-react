@@ -1,6 +1,6 @@
 # Getting Started with TDD in React
 
-This is the companion repository for the Getting Started with TDD in React tutorial at [Semaphore CI](https://semaphoreci.com/).
+This is the companion repository for the Getting Started with TDD in React tutorial at [Semaphore CI](https://semaphore.io/community/tutorials/getting-started-with-tdd-in-react).
 
 Follow along with the tutorial for maximum benefit, and clone this repo to check your work.
 
